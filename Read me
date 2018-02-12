@@ -1,0 +1,8 @@
+simisso.cc/.h
+--simulation scenario, add to the scratch in NS-3
+
+DSR/SDSR:
+--routing protocols, add to the src in NS-3
+
+vanetmobility
+--mobility model, add to the src in NS-3
